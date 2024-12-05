@@ -2,7 +2,7 @@
 # Project Title: Global Environmental Sustainability Dashboard
 
 Summary:
-The objective of this project is to explore and visualize trends in environmental sustainability globally, focusing on three critical metrics: greenhouse gas emissions (based on industries), renewable energy consumption, and air quality. The central question we aim to answer is: "How have greenhouse gas emissions, renewable energy consumption, and air quality changed over the past two decades, and how do these metrics vary across different regions and countries?"
+The objective of this project is to explore and visualize trends in environmental sustainability globally, focusing on three critical metrics: greenhouse gas emissions (based on industries), renewable energy consumption, and air quality. The central question we aim to answer is: How have greenhouse gas emissions, renewable energy consumption, and air quality changed over the past two decades, and how do these metrics vary across different regions and countries?
 
 This interactive Shiny dashboard will allow users to examine these environmental indicators over time and by region or country, providing insights into the progress toward global sustainability goals and identifying areas where more action may be needed.
 
